@@ -1,15 +1,21 @@
-# Car Insurance Risk & Premium Insights
-Advanced Excel analytics project analysing customer behaviour, vehicle characteristics, and usage patterns to assess insurance risk and support data-driven premium pricing.
-## Objective
-- Identify key risk drivers affecting insurance premiums
-- Support segmentation and underwriting decisions
-## Key Analysis
-- Income vs vehicle type risk
-- Travel time and exposure risk
-- Regional variation in vehicle risk
-- Private vs commercial usage risk
-## Tools Used
-- Advanced Excel
-- Pivot Tables & Charts
-- Descriptive Analytics
-<img width="1158" height="533" alt="BA" src="https://github.com/user-attachments/assets/2ebc4cc1-21e0-4255-93db-377b2ca6ffa2" />
+# Car Insurance Risk & Premium Analysis
+
+## Tools
+Microsoft Excel, Pivot Tables, Charts, Data Analysis
+
+## Description
+Analysed 303 insurance records to identify risk factors affecting claims and premium pricing.
+
+## Tasks
+- Data cleaning
+- Pivot table analysis
+- Risk segmentation
+- Dashboard creation
+
+## Insights
+- Commercial use increased risk
+- Longer commute increased claims
+- Older vehicles had higher maintenance risk
+
+## Skills Used
+Excel, Pivot Tables, Data Analysis, Dashboard, Reporting
